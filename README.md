@@ -13,6 +13,8 @@ Java, IntelliJ IDEA, MySQL, PostgreSQL, Allure, Postman, Selenium, Selenide, JUn
 **Certificates**
 
 
-[Тестировщик ПО](https://github.com/Butanya/Butanya/files/10706913/default.pdf);
+[Тестировщик ПО](https://github.com/Butanya/Butanya/files/10706913/default.pdf)
+
 [Java для тестировщиков](https://github.com/Butanya/Butanya/files/10706929/Java.pdf)
+
 [Git - система контроля версий](https://github.com/Butanya/Butanya/files/10706925/Git.pdf)
