@@ -7,3 +7,12 @@
 - 📫 How to reach me: t.me/TanyaBoo
 
 
+**Hard Skills**
+Java, IntelliJ IDEA, MySQL, PostgreSQL, Allure, Postman, Selenium, Selenide, JUnit, Docker, Jira, GitHub, DevTools
+
+**Certificates**
+
+
+[Тестировщик ПО](https://github.com/Butanya/Butanya/files/10706913/default.pdf);
+[Java для тестировщиков](https://github.com/Butanya/Butanya/files/10706929/Java.pdf)
+[Git - система контроля версий](https://github.com/Butanya/Butanya/files/10706925/Git.pdf)
